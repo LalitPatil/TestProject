@@ -279,7 +279,7 @@
 		78DB87EE1858F0CC00BF5054 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = Razeware;
 				TargetAttributes = {
 					7870468E186703BC00401921 = {
@@ -434,7 +434,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 688929A612AFAA7F7B3BF08F /* Pods-UI Tests.debug.xcconfig */;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/solanum.app/solanum";
+				BUNDLE_LOADER = "$(TEST_HOST)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -456,7 +456,7 @@
 					"$(inherited)",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SynerzipTest.app/SynerzipTest";
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Debug;
@@ -465,7 +465,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4535BB6F01B964AC8FCF8884 /* Pods-UI Tests.release.xcconfig */;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/solanum.app/solanum";
+				BUNDLE_LOADER = "$(TEST_HOST)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -483,7 +483,7 @@
 					"$(inherited)",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SynerzipTest.app/SynerzipTest";
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Release;
