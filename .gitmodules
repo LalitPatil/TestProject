@@ -1,0 +1,3 @@
+[submodule "kif-solanum-3/Frameworks/KIF"]
+	path = kif-solanum-3/Frameworks/KIF
+	url = https://github.com/kif-framework/KIF.git
