@@ -76,7 +76,7 @@
 				<string>787046A4186703E300401921</string>
 				<string>78704693186703BC00401921</string>
 				<string>78704692186703BC00401921</string>
-				<string>FB601C59F4A4E6B53E10C5BC</string>
+				<string>DAA22A511BCB1491F66BAA3A</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
@@ -1295,6 +1295,8 @@
 				<string>AppIcon</string>
 				<key>ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME</key>
 				<string>LaunchImage</string>
+				<key>CODE_SIGN_IDENTITY</key>
+				<string></string>
 				<key>FRAMEWORK_SEARCH_PATHS</key>
 				<array>
 					<string>$(inherited)</string>
@@ -1326,6 +1328,8 @@
 				<string>AppIcon</string>
 				<key>ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME</key>
 				<string>LaunchImage</string>
+				<key>CODE_SIGN_IDENTITY</key>
+				<string></string>
 				<key>FRAMEWORK_SEARCH_PATHS</key>
 				<array>
 					<string>$(inherited)</string>
@@ -1548,7 +1552,7 @@ fi
 			<key>showEnvVarsInLog</key>
 			<string>0</string>
 		</dict>
-		<key>FB601C59F4A4E6B53E10C5BC</key>
+		<key>DAA22A511BCB1491F66BAA3A</key>
 		<dict>
 			<key>fileRef</key>
 			<string>A917242833560C3FFE0CE06D</string>
