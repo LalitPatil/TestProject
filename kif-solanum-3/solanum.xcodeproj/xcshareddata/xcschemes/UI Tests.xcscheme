@@ -17,7 +17,7 @@
                BlueprintIdentifier = "7870468E186703BC00401921"
                BuildableName = "UI Tests.octest"
                BlueprintName = "UI Tests"
-               ReferencedContainer = "container:SynerzipTest.xcodeproj">
+               ReferencedContainer = "container:solanum.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "7870468E186703BC00401921"
                BuildableName = "UI Tests.octest"
                BlueprintName = "UI Tests"
-               ReferencedContainer = "container:SynerzipTest.xcodeproj">
+               ReferencedContainer = "container:solanum.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -45,7 +45,7 @@
             BlueprintIdentifier = "7870468E186703BC00401921"
             BuildableName = "UI Tests.octest"
             BlueprintName = "UI Tests"
-            ReferencedContainer = "container:SynerzipTest.xcodeproj">
+            ReferencedContainer = "container:solanum.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -64,7 +64,7 @@
             BlueprintIdentifier = "7870468E186703BC00401921"
             BuildableName = "UI Tests.octest"
             BlueprintName = "UI Tests"
-            ReferencedContainer = "container:SynerzipTest.xcodeproj">
+            ReferencedContainer = "container:solanum.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -82,7 +82,7 @@
             BlueprintIdentifier = "7870468E186703BC00401921"
             BuildableName = "UI Tests.octest"
             BlueprintName = "UI Tests"
-            ReferencedContainer = "container:SynerzipTest.xcodeproj">
+            ReferencedContainer = "container:solanum.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
