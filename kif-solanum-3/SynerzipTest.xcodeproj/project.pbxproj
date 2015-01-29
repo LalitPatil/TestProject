@@ -24,6 +24,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>418C2A005F454395382D5FE2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A917242833560C3FFE0CE06D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>4535BB6F01B964AC8FCF8884</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -76,7 +83,7 @@
 				<string>787046A4186703E300401921</string>
 				<string>78704693186703BC00401921</string>
 				<string>78704692186703BC00401921</string>
-				<string>C865FA1F94F15AF9D33338DA</string>
+				<string>418C2A005F454395382D5FE2</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
@@ -1460,13 +1467,6 @@
 			<string>libPods-UI Tests.a</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>C865FA1F94F15AF9D33338DA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A917242833560C3FFE0CE06D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>C9E48E29189DB230004302E7</key>
 		<dict>
